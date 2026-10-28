@@ -1,0 +1,6 @@
+{
+  "name": "Bellalana - Handmade Bags & Crochet Studio",
+  "description": "Artisan handmade crochet handbags, flower bouquets, and handcrafted accessories made with love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
